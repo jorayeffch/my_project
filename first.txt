@@ -3,7 +3,7 @@ hello
 
 my name is John
 
-Last name is Smith
+Last name is Abinav
 =======
 hello
 >>>>>>> parent of 5a6b531 (second commit)
