@@ -7,3 +7,5 @@ Last name is Smith
 =======
 hello
 >>>>>>> parent of 5a6b531 (second commit)
+
+this is merge conf changes for trial
