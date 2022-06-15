@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 hello
 
 my name is John
